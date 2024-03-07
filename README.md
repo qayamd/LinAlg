@@ -12,4 +12,4 @@ Included:
 
 
 ## How to use?
-just include
+just include the library
